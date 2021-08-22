@@ -9,8 +9,8 @@ import datetime as dt
 
 
 # 2. Check if today matches a birthday in the birthdays.csv
-my_mail = "cmagnetinbox@gmail.com"
-password = "magnet123"
+my_mail = "Input email"
+password = "Password"
 
 today = (dt.datetime.now().month, dt.datetime.now().day)
 
